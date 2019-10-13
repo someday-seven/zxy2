@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 New1@1.txt
+
+New2@1.txt
+>>>>>>> New2
